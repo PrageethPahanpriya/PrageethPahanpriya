@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Prageeth Pahanpriya
+## Hi there 👋, I'm Prageeth Pahanpriya. Enthusiastic Computer System & Network Engineering undergraduate at SLIIT.
 
 <!--
 Undergraduate student in computer system and network engineering.
